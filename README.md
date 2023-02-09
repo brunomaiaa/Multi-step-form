@@ -53,10 +53,12 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS 
+- Javascript 
 - Flexbox
 - CSS Grid
 - Mobile-first 
 - Google Fonts
+
 
 ## Author
 
