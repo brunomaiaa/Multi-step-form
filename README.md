@@ -29,17 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-
-![](./assets/screenshot/Screenshot%202023-02-07%20at%2021.43.41.png)
-![](./assets/screenshot/Screenshot%202023-02-09%20at%2009.34.50.png)
-![](./assets/screenshot/Screenshot%202023-02-07%20at%2021.44.25.png)
-![](./assets/screenshot/Screenshot%202023-02-07%20at%2021.44.43.png)
-![](./assets/screenshot/Screenshot%202023-02-07%20at%2021.44.57.png)
-
-
-
-
-
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.23.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.39.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.55.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.08.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.24.png)
 
 
 ### Links
