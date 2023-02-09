@@ -32,8 +32,8 @@ Users should be able to:
 ![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.23.png)
 ![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.39.png)
 ![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.55.png)
-![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.08.png)
-![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.29.24.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.30.08.png)
+![](./assets/screenshot/Screenshot%202023-02-09%20at%2010.30.24.png)
 
 
 ### Links
